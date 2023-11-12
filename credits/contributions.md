@@ -13,8 +13,8 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
 * Fixed chart preview pos being affected by mini
 * Adjustments to chart preview graph allowing consistent amounts of bars and a much better look
 * Helped with smart search
-* Fixed incorrect scroll speed scaling based on receptor size
-* Rewrote score tab leaderboard fixed the scuffed sort modes i added to it
+* Fixed the wrong scroll speed scaling based on receptor size I added
+* Rewrote score tab leaderboard fixed the scuffed sort modes I added to it
 * Also rewrote online scoreboard**(wip)**
 * Helped with aspect ratio check
 * Provided a slider module(SliderRange) for easily adding sliders with images and tailored behaviour(both multi and single marker)
