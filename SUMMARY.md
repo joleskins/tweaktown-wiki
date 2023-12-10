@@ -1,5 +1,7 @@
 # Table of contents
 
+## Introduction
+
 * [Welcome to tweaktown](README.md)
 
 ## Getting Started

@@ -1,6 +1,8 @@
 # Welcome to tweaktown
 
-On this wiki you'll find details about all skin.ini entries and texture behavior
+On this wiki you'll find everything you need to know about getting started with tweaktown and all details you could possibly need for customization.
 
+Don't have the theme yet? [**Download it here**](https://github.com/Jolomann/tweaktown/releases)
 
+Need noteskins to go with the theme? Download extras(soon™)
 
