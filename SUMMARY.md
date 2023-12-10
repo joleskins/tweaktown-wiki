@@ -1,10 +1,13 @@
 # Table of contents
 
 * [Welcome to tweaktown](README.md)
-* [Disclaimers](disclaimers.md)
-* [For existing players](for-existing-players.md)
-* [For new players](for-new-players.md)
-* [For skinners](for-skinners.md)
+
+## Getting Started
+
+* [Disclaimers](getting-started/disclaimers.md)
+* [For new players](getting-started/for-new-players.md)
+* [For existing players](getting-started/for-existing-players.md)
+* [For skinners](getting-started/for-skinners.md)
 
 ## Settings
 

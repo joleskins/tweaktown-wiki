@@ -10,7 +10,8 @@ However, there are still some differences that may be useful to know.
 
 
 
-1. Scroll speed is automatically adjusted to account for receptor size changes. This means no matter your receptor size, the scroll speed stays the same. If your receptor size isn't 100%, you can use this formula to get your usual speed back: **`CMod/(receptor_size/100)`**. Example: **`C800 80% Receptor Size`** -> **`C800/0.8=C1000`**\
+1. Scroll speed is automatically adjusted to account for receptor size changes. This means no matter your receptor size, the scroll speed stays the same. If your receptor size isn't 100%, you can use this formula to get your usual speed back: **`CMod*(receptor_size/100)`**.\
+   Example: **`C800 80% Receptor Size`** -> **`C800*0.8=C640`**\
 
 2. Downscroll is now default and receptors sit lower on the screen by default(Higher if upscroll). This can be reverted with playfield position in customize gameplay\
 
@@ -22,8 +23,8 @@ However, there are still some differences that may be useful to know.
 
 6. You can now adjust volume with **`Alt + Scroll or Up/down arrow keys`**\
 
-7. Midgrades are not directly supported by the theme. If you have them on, there won't be any visual difference. The only exception is when looking at groups while sorting by grades where you'll see all the midgrade categories\
+7. Midgrades are not directly supported by the theme. If you have them on, there won't be any visual difference. The only exception is when sorting by grades where you can see all of them.\
 
 8. A lot of options have been removed for the sake of decluttering. Particularly some very, very niche gimmick mods, legacy settings and duplicates were taken out so the options are easier to navigate\
 
-9. On top of removing options, a lot of them have been renamed and reordered for ease of navigation and knowing what settings actually do. Player options should feel familiar, but main menu options are fairly different. Ideally there would be an entirely new options screen, but that's out of scope... for now
+9. On top of removing options, a lot of them have been renamed and reordered for ease of navigation and knowing what settings actually do. Player options should feel familiar, but main menu options are fairly different. Ideally there would be an entirely new options screen, but surely that'll never be a thing... unless? 👀

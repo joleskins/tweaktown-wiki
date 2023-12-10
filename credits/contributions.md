@@ -19,7 +19,7 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
 * Helped with aspect ratio check
 * Provided a slider module(SliderRange) for easily adding sliders with images and tailored behaviour(both multi and single marker)
 * Created functional main menu music player with controls**(wip)**
-* Made asset picker combine game and theme's assets folders so defaults could be shipped with the theme**(wip)**
+* Made asset picker combine game and theme's assets folders so defaults could be shipped with the theme
 
 
 
@@ -35,7 +35,7 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
   * Systemmessage scaling
   * Mouseclick animation
   * Healthbar value grabbing
-  * Different approach for the new preview graph so it could be optimised and actually be usable
+  * Different approach for the new preview graph so it could be optimized and actually be usable
   * A lot of random things over the years that also came in handy for this project
 
 
@@ -50,7 +50,7 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
 
 **Gazelle**
 
-* Based etterna rebranding that i could use
+* Based EO rebranding that I could use
 
 
 

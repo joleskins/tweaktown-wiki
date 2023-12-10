@@ -9,11 +9,21 @@ Example: **`texture.png`** -> **`texture (doubleres).png`**
 
 Almost everything that can be an image, is an image. Easy customization is top priority in tweaktown.
 
+**NOTE: Texture scaling relies on a multiplier that's not 100% precise, so large textures may be a few pixels off. You may need to add a few pixels for fullscreen elements like footers and backgrounds**
+
+
+
 Every texture can be animated with a spritesheet if desired. Just remember to add the columns/rows to the filename. Example: **`texture.png`** -> **`texture 11x22.png`**
+
+
 
 Every texture has hotplug support, which means if you don't want an element to show up, you can simply delete the texture and the game loads a blank 1x1px placeholder instead. This also counts for optional textures that aren't included by default. See "Textures" section for the whole list.
 
+
+
 Most elements are center aligned so you can extend the texture in each direction without being limited. Textures at edges(header, footer, corner pieces etc.) are not center aligned since it's not necessary for them and aligning to the edge can result in smaller resolutions. The latter may come in handy for animations with many frames
+
+
 
 Not everything can be customized with textures, but refer to skin.ini for extra configuration. It allows you to easily change colours and various settings on different screens.
 
@@ -23,11 +33,11 @@ Not everything can be customized with textures, but refer to skin.ini for extra 
 
 
 
-Sadly since we're on the stepmania engine, **customizing fonts is a very painful experience** that I wouldn't recommend messing with for the general font used everywhere. I won't stop anyone, but you've been warned.
+Sadly since we're on the stepmania engine, **customizing fonts is a very painful experience** that I wouldn't recommend messing with. I won't stop anyone, but you've been warned.
 
 That said, **combo and accuracy fonts should be easy enough to edit** since those are small spritesheets. It's when you have to use the font generator that you may go insane.
 
-To counter this, text is included directly on images so it's hopefully way easier to stylize on important elements. This hurts translation but I've decided to prioritize
+To counter this, text is included directly on images so it's hopefully way easier to stylize on important elements. This hurts translation support but ease of styling has been prioritized.
 
 
 
