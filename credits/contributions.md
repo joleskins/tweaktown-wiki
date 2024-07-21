@@ -18,7 +18,7 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
 * Also rewrote online scoreboard**(wip)**
 * Helped with aspect ratio check
 * Provided a slider module(SliderRange) for easily adding sliders with images and tailored behaviour(both multi and single marker)
-* Created functional main menu music player with controls**(wip)**
+* Created functional main menu music player with controls
 * Made asset picker combine game and theme's assets folders so defaults could be shipped with the theme
 
 
@@ -36,6 +36,8 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
   * Mouseclick animation
   * Healthbar value grabbing
   * Different approach for the new preview graph so it could be optimized and actually be usable
+  * Including noteskins with the theme
+  * Avoiding multiple cursor ripples triggering at the same time
   * A lot of random things over the years that also came in handy for this project
 
 
@@ -62,11 +64,11 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
 
 **Caliber**
 
-* Playtesting and bug reporting
+* Playtesting, bug reporting and feature requests
 
 
 
-**Future skinners here(Anas, probably more)**
+**Future skinners here(Anas, Makaii, probably more)**
 
 * Feedback on how skinning and textures should be set up for ease of use
 
