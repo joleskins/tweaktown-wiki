@@ -38,6 +38,8 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
   * Different approach for the new preview graph so it could be optimized and actually be usable
   * Including noteskins with the theme
   * Avoiding multiple cursor ripples triggering at the same time
+  * Handling metadata to reduce cases of missing characters by showing translit titles
+  * Pack counter on playlist tab
   * A lot of random things over the years that also came in handy for this project
 
 
