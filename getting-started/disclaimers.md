@@ -1,14 +1,16 @@
 # Disclaimers
 
-## **This theme automatically sets your texture resolution to 8192 and forces 16:9 resolutions.**
+## **This theme requires specific game settings and a 16:9 window resolution.**
 
-If you're worried about not being able to play with your preferred resolution, there is a way to get the same playing experience on 16:9 if you're using windowed mode.
+Insert list of required settings here or something idk
 
-Close the game and edit **`DisplayHeight`** in **`Etterna/Save/Preferences.ini`** to match the resolution you're used to. For example, if you're used to **`800x600`**, do **`DisplayHeight=600`**
+~~If you're worried about not being able to play with your preferred resolution, there is a way to get the same playing experience on 16:9 if you're using windowed mode.~~
 
-The height will be set to whatever you put, and width auto adjusts to match 16:9. Using the height you're used to should feel the same while playing.
+~~Close the game and edit **`DisplayHeight`** in **`Etterna/Save/Preferences.ini`** to match the resolution you're used to. For example, if you're used to **`800x600`**, do **`DisplayHeight=600`**~~
 
-If you're using fullscreen and not 16:9, you'll have to wait for other theme versions.
+~~The height will be set to whatever you put, and width auto adjusts to match 16:9. Using the height you're used to should feel the same while playing.~~
+
+~~If you're using fullscreen and not 16:9, you'll have to wait for other theme versions.~~
 
 
 
