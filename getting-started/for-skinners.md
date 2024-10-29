@@ -35,9 +35,15 @@ Not everything can be customized with textures, but refer to skin.ini for extra 
 
 Sadly since we're on the stepmania engine, **customizing fonts is a very painful experience** that I wouldn't recommend messing with. I won't stop anyone, but you've been warned.
 
+\[ADD NEW FONT GEN THING HERE]
+
 That said, **combo and accuracy fonts should be easy enough to edit** since those are small spritesheets. It's when you have to use the font generator that you may go insane.
 
-To counter this, text is included directly on images so it's hopefully way easier to stylize on important elements. This hurts translation support but ease of styling has been prioritized.
+If you want more stylized texts in places, a lot of text in the game can be colored with skin.ini. Since the skin.ini colors have alpha support, you can simply make things invisible and use textures to go wild instead!
+
+
+
+If you find the default set of textures limiting or want to do more, you can add new images arbitrarily on any screen and tinker with a bunch of settings for them. This is more advanced skinning, but the option is there if you need it. Check \[custom sprites wiki page] to learn how this works
 
 
 

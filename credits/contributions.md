@@ -40,6 +40,7 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
   * Avoiding multiple cursor ripples triggering at the same time
   * Handling metadata to reduce cases of missing characters by showing translit titles
   * Pack counter on playlist tab
+  * Hiding invalid scores on profile tab with manual sorting
   * A lot of random things over the years that also came in handy for this project
 
 
