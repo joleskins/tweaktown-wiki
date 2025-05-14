@@ -15,7 +15,7 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
 * Helped with smart search
 * Fixed the wrong scroll speed scaling based on receptor size I added
 * Rewrote score tab leaderboard fixed the scuffed sort modes I added to it
-* Also rewrote online scoreboard**(wip)**
+* Also rewrote online scoreboar&#x64;**(wip)**
 * Helped with aspect ratio check
 * Provided a slider module(SliderRange) for easily adding sliders with images and tailored behaviour(both multi and single marker)
 * Created functional main menu music player with controls
@@ -41,6 +41,9 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
   * Handling metadata to reduce cases of missing characters by showing translit titles
   * Pack counter on playlist tab
   * Hiding invalid scores on profile tab with manual sorting
+  * Showing player flags on online scores
+  * Including Rebirth lua musicwheel functionality for pack clear stats that would otherwise not be possible
+  * Hiding that one really annoying square in the top right corner of the stats/fps display
   * A lot of random things over the years that also came in handy for this project
 
 
@@ -50,6 +53,13 @@ After getting so much help, a simple "Thanks to \[person]!" won't be enough. The
 * Number formatting for relative time comparisons(conversion from sm functions to unix timestamp)
 * Fixing multiple matches in functions checking for score mods("NoMines" also triggering "Mines" etc.)
 * Playtesting and bug reporting
+
+
+
+**BlueBandit**
+
+* Profiling the theme for troubleshooting load times
+* Briefly testing on mac
 
 
 
