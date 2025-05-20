@@ -21,6 +21,10 @@
 * [Main menu](textures/main-menu.md)
 * [Option menu](textures/option-menu.md)
 
+## MODS
+
+* [Lua mods](mods/lua-mods.md)
+
 ## Credits
 
 * [Contributions](credits/contributions.md)
