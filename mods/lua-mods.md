@@ -38,7 +38,7 @@ local screenName = Var("screenName") or ""
 "PromptOverlay"
 ```
 
-These are manually defined screen names and not what the sm engine uses internally. Below is a translation between the two
+These are manually defined screen names and not what the StepMania engine uses internally. Below is a translation between the two
 
 ```
 "IntroScreen" = "ScreenInit2" (ScreenInit is only shown for theme preferences prompt)
