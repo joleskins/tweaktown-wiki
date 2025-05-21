@@ -8,7 +8,17 @@ tweaktown loads lua mods from `tweaktown/Mods` as plug 'n play modules that can 
 
 
 
-When making mods, you can use screen names in the code to decide where to load the mods specifically. If you don't specify screens for loading specific things, they'll show up everywhere. You can also include things for multiple, cherry picked screens because of this.
+When making mods, you can use screen names in the code to decide where something shows up. If you don't specify screens for loading/showing specific things, they'll show up everywhere. You can also include things for multiple, cherry picked screens because of this.
+
+
+
+The screen name is given through `LoadActorWithParams` as `Var("screenName")`.
+
+So you can grab the screenName param like this:
+
+```
+local screenName = Var("screenName") or ""
+```
 
 
 
@@ -26,6 +36,22 @@ When making mods, you can use screen names in the code to decide where to load t
 "Results"
 "LoadingMenu"
 "PromptOverlay"
+```
+
+These are manually defined screen names and not what the sm engine uses internally. Below is a translation between the two
+
+```
+"IntroScreen" = "ScreenInit2" (ScreenInit is only shown for theme preferences prompt)
+"MainMenu" = "ScreenTitleMenu"
+"OptionMenu" = "ScreenOptionsService" (and all its children) + "ScreenPlayerOptions"
+"PackDownloader" = "ScreenPackDownloader"
+"SongSelect" = "ScreenSelectMusic
+"ProfileSelect" = "ScreenSelectProfile"
+"AssetSelect" = "ScreenAssetSettings"
+"Gameplay" = "ScreenGameplay"
+"Results" = "ScreenEvaluationNormal"
+"LoadingMenu" = "ScreenProfileLoad" + "ScreenProfileSave"
+"PromptOverlay" = "ScreenPrompt"
 ```
 
 
