@@ -10,6 +10,7 @@
 * [For new players](getting-started/for-new-players.md)
 * [For existing players](getting-started/for-existing-players.md)
 * [For skinners](getting-started/for-skinners.md)
+* [For noteskinners](getting-started/for-noteskinners.md)
 
 ## Settings
 
