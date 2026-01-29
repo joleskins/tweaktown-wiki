@@ -4,33 +4,37 @@ description: All textures for tweaktown/Textures/IntroScreen
 
 # Intro screen
 
-Tables with all textures go on these pages&#x20;
-
-Element filename
-
-Default size
-
-Alignment
-
-Thumbnail with position and alignment highlighted
-
-Special notes if needed
-
-
-
 ***
 
 ## theme logo.png
 
-<figure><img src="../.gitbook/assets/theme logo 6x20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/theme logo 6x20.png" alt="" width="188"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="120" align="center">Default Resolution</th><th width="142" align="center">Alignment</th><th width="149">Scaling</th><th data-type="image">Preview</th></tr></thead><tbody><tr><td align="center">184x64    per frame</td><td align="center">Center</td><td>Normal</td><td><a href="../.gitbook/assets/theme logo preview.png">theme logo preview.png</a></td></tr></tbody></table>
+<table><thead><tr><th width="130" align="center">Default Resolution</th><th width="142" align="center">Alignment</th><th width="183" align="center" valign="middle">Scaling</th><th width="188" align="center">Animatable</th></tr></thead><tbody><tr><td align="center">184x64      per frame</td><td align="center">Center</td><td align="center" valign="middle">Normal</td><td align="center">Yes</td></tr></tbody></table>
 
-Notes: --
+Notes
+
+* Logo is visible for 1.8 seconds before proceeding from intro screen to main menu
+
+
+
+Preview
+
+<figure><img src="../.gitbook/assets/theme logo preview.png" alt=""><figcaption></figcaption></figure>
+
+
 
 
 
 ***
 
+## intro background.png
 
+<mark style="color:$warning;">Not included by default</mark>
+
+<table><thead><tr><th width="130" align="center">Default Resolution</th><th width="142" align="center">Alignment</th><th width="183" align="center" valign="middle">Scaling</th><th width="188" align="center">Animatable</th></tr></thead><tbody><tr><td align="center"><mark style="color:$info;">--</mark></td><td align="center">Center</td><td align="center" valign="middle">Scale to fit</td><td align="center">Yes - video recommended</td></tr></tbody></table>
+
+Notes
+
+<mark style="color:$info;">--</mark>
 
