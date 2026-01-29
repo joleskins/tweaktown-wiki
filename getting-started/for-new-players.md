@@ -24,8 +24,7 @@ A: In song select, either **`Press enter twice`**, press the **`Setup button`** 
 
 Q: Where do I get noteskins?
 
-A:[ Skins can be downloaded from here](https://etternaonline.com/customisation/noteskins), and if you're playing 4k/6k, they need to be extracted to **`Etterna\NoteSkins\dance`**. Other keymodes go in different folders like so: 5k=pump, 7k=kb7, 7+1k=beat\
-
+A:[ Skins can be downloaded from here](https://etternaonline.com/customisation/noteskins), and if you're playing 4k/6k, they need to be extracted to **`Etterna\NoteSkins\dance`**. Other keymodes go in different folders like so: 5k=pump, 7k=kb7, 7+1k=beat<br>
 
 
 
