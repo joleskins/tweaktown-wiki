@@ -15,8 +15,7 @@ description: Textures for tweaktown/Textures/IntroScreen
 Notes
 
 * Logo is visible for 1.8 seconds before proceeding from intro screen to main menu
-
-
+* When skin.ini "CenterText" is set to true, the text and loading image can overlap
 
 Preview
 
