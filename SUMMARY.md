@@ -21,6 +21,7 @@
 * [Intro screen](textures/intro-screen.md)
 * [Main menu](textures/main-menu.md)
 * [Option menu](textures/option-menu.md)
+* [Loading screen](textures/loading-screen.md)
 
 ## MODS
 

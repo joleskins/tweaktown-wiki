@@ -52,7 +52,7 @@ local screenName = Var("screenName") or ""
 "AssetSelect"
 "Gameplay"
 "Results"
-"LoadingMenu"
+"LoadingScreen"
 "PromptOverlay"
 ```
 
@@ -68,7 +68,7 @@ These are manually defined screen names and not what the StepMania engine uses i
 "AssetSelect" = "ScreenAssetSettings"
 "Gameplay" = "ScreenGameplay"
 "Results" = "ScreenEvaluationNormal"
-"LoadingMenu" = "ScreenProfileLoad" + "ScreenProfileSave"
+"LoadingScreen" = "ScreenProfileLoad" + "ScreenProfileSave"
 "PromptOverlay" = "ScreenPrompt"
 ```
 
