@@ -19,6 +19,7 @@ description: Textures for tweaktown/Textures/LoadingScreen
 Notes
 
 * Loading image is visible for 1.1 seconds
+* When skin.ini "CenterText" is set to true, "Loading..." or "Saving..." text can overlap with the loading image
 
 
 
