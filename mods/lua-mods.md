@@ -54,6 +54,7 @@ local screenName = Var("screenName") or ""
 "Results"
 "LoadingScreen"
 "PromptOverlay"
+"KeymodeSelect"
 ```
 
 These are manually defined screen names and not what the StepMania engine uses internally. Below is a translation between the two
@@ -70,5 +71,6 @@ These are manually defined screen names and not what the StepMania engine uses i
 "Results" = "ScreenEvaluationNormal"
 "LoadingScreen" = "ScreenProfileLoad" + "ScreenProfileSave"
 "PromptOverlay" = "ScreenPrompt"
+"KeymodeSelect" = "ScreenSelectKeymode"
 ```
 
