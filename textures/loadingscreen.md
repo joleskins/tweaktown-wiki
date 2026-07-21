@@ -2,7 +2,7 @@
 description: Textures for tweaktown/Textures/LoadingScreen
 ---
 
-# Loading screen
+# LoadingScreen
 
 {% hint style="info" %}
 <mark style="color:blue;">This texture folder's elements are used in both loading and saving screens</mark>
@@ -10,7 +10,7 @@ description: Textures for tweaktown/Textures/LoadingScreen
 
 ##
 
-## loading image.png
+## loading-image.png
 
 <figure><img src="../.gitbook/assets/loading image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -31,7 +31,7 @@ Preview
 
 ***
 
-## loading background.png
+## loading-background.png
 
 <mark style="color:$warning;">Not included by default</mark>
 

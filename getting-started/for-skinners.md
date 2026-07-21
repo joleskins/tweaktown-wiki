@@ -4,7 +4,7 @@ description: Things to take note of when customizing the theme
 
 # For skinners
 
-By default, elements are designed for 1920x1080. If you want to support higher resolutions, you can add **`(doubleres)`** to the filename, scaling the element to fit 3840x2160.\
+By default, elements are designed for 1920x1080. If you want to support higher resolutions, you can add **`(doubleres)`** to the end of filenames, scaling the element to fit 3840x2160.\
 Example: **`texture.png`** -> **`texture (doubleres).png`**
 
 Almost everything that can be an image, is an image. Easy customization is top priority in tweaktown.
@@ -27,9 +27,7 @@ Most elements are center aligned so you can extend the texture in each direction
 
 Not everything can be customized with textures, but refer to skin.ini for extra configuration. It allows you to easily change colours and various settings on different screens.
 
-**Reload textures and skin.ini: F2**
-
-**Reload skin.ini(takes less time): Shift+F2**
+**Reload skin shortcut: Alt+R by default. Bind can be changed in `Scripts/00 tweaktown_binds.lua`**
 
 
 

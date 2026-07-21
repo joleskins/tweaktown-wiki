@@ -2,11 +2,11 @@
 description: Textures for tweaktown/Textures/IntroScreen
 ---
 
-# Intro screen
+# IntroScreen
 
 ***
 
-## theme logo.png
+## theme-logo.png
 
 <figure><img src="../.gitbook/assets/theme logo 6x20.png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -27,7 +27,7 @@ Preview
 
 ***
 
-## intro background.png
+## intro-background.png
 
 <mark style="color:$warning;">Not included by default</mark>
 

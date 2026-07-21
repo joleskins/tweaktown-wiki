@@ -18,14 +18,19 @@
 
 ## Textures
 
-* [Intro screen](textures/intro-screen.md)
-* [Main menu](textures/main-menu.md)
-* [Option menu](textures/option-menu.md)
-* [Loading screen](textures/loading-screen.md)
+* [IntroScreen](textures/introscreen.md)
+* [MainMenu](textures/mainmenu.md)
+* [OptionMenu](textures/optionmenu.md)
+* [LoadingScreen](textures/loadingscreen.md)
 
-## MODS
+## Fonts
 
-* [Lua mods](mods/lua-mods.md)
+* [Making theme fonts](fonts/making-theme-fonts.md)
+
+## Advanced
+
+* [Custom Sprites](advanced/custom-sprites.md)
+* [Lua mods](advanced/lua-mods.md)
 
 ## Credits
 
